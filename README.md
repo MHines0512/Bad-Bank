@@ -1,4 +1,4 @@
-# Front-End-Banking-Application
+# Bad Bank
 
 This exercise creates a shopping cart in which you can add and take away items. It will then calcualte and display the number of items left.
 
